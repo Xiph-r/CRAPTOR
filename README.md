@@ -1,2 +1,2 @@
 # Craptor
-The repository dedicated to *CRAPTOR*.
+The repository dedicated to **CRAPTOR**.
